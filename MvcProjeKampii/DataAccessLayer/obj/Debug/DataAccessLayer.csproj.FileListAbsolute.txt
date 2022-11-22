@@ -12,5 +12,11 @@ C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\obj\Debug\DataAccessL
 C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
-C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\bin\Debug\FluentValidation.dll
+C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\bin\Debug\FluentValidation.xml
+C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migyeni1.resources
 C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache

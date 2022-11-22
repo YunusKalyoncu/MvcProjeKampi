@@ -4,3 +4,10 @@ C:\Users\yunus\source\repos\MvcProjeKampii\EntityLayer\obj\Debug\EntityLayer.csp
 C:\Users\yunus\source\repos\MvcProjeKampii\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
 C:\Users\yunus\source\repos\MvcProjeKampii\EntityLayer\obj\Debug\EntityLayer.dll
 C:\Users\yunus\source\repos\MvcProjeKampii\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\yunus\source\repos\MvcProjeKampii\EntityLayer\bin\Debug\FluentValidation.dll
+C:\Users\yunus\source\repos\MvcProjeKampii\EntityLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yunus\source\repos\MvcProjeKampii\EntityLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yunus\source\repos\MvcProjeKampii\EntityLayer\bin\Debug\FluentValidation.xml
+C:\Users\yunus\source\repos\MvcProjeKampii\EntityLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yunus\source\repos\MvcProjeKampii\EntityLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yunus\source\repos\MvcProjeKampii\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete

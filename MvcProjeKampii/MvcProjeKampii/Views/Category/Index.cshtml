@@ -1,0 +1,20 @@
+﻿@using EntityLayer.Concrete
+@model List<Category>
+@{
+    Layout = null;
+}
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<h3>Mvc Kamp tablo Örneği</h3>
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Adı</th>
+        <th>Açıklama</th>
+        <th>Durum</th>
+    </tr>
+  
+</table>
+<a href="/Category/AddCategory/"> class="btn btn-success">Yeni Kategori</a>
+<a href="/Category/GetCategoryList/" class="btn btn-warning">Kategori Listesi</a>
+<button class="btn btn-danger">Kategori Açıklaması</button>

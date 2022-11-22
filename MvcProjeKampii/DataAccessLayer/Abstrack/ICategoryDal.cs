@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Abstrack
 {
-    public interface ICategoryDal:IRepository<Category>
+    public interface ICategoryDal : IRepository<Category>
     {
-      
-
+        Category Get(Func<object, bool> p);
     }
 }
