@@ -18,5 +18,5 @@ C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\bin\Debug\System.Thre
 C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\bin\Debug\FluentValidation.xml
 C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migyeni1.resources
+C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.admin_panel.resources
 C:\Users\yunus\source\repos\MvcProjeKampii\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache

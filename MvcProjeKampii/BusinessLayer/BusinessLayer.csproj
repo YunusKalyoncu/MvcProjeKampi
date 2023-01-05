@@ -60,16 +60,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="abstrack\IAboutService.cs" />
+    <Compile Include="abstrack\IAdminService.cs" />
     <Compile Include="abstrack\ICategoryService.cs" />
+    <Compile Include="abstrack\IContactService.cs" />
     <Compile Include="abstrack\IContentService.cs" />
     <Compile Include="abstrack\IHeadingService.cs" />
+    <Compile Include="abstrack\IImageFileService.cs" />
+    <Compile Include="abstrack\IMessageService.cs" />
+    <Compile Include="abstrack\IWriterLoginService.cs" />
     <Compile Include="abstrack\IWriterService.cs" />
+    <Compile Include="Concrete\AboutManager.cs" />
+    <Compile Include="Concrete\AdminManager.cs" />
     <Compile Include="Concrete\CategoryManager.cs" />
+    <Compile Include="Concrete\ContactManager.cs" />
     <Compile Include="Concrete\ContentManager.cs" />
     <Compile Include="Concrete\HeadingManager.cs" />
+    <Compile Include="Concrete\ImageFileManager.cs" />
+    <Compile Include="Concrete\MessageManager.cs" />
+    <Compile Include="Concrete\WriterLoginManager.cs" />
     <Compile Include="Concrete\WriterManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ValidationRules\CategoryValidator.cs" />
+    <Compile Include="ValidationRules\ContactValidator.cs" />
+    <Compile Include="ValidationRules\MessageValidator.cs" />
     <Compile Include="ValidationRules\WriterValidator.cs" />
   </ItemGroup>
   <ItemGroup>

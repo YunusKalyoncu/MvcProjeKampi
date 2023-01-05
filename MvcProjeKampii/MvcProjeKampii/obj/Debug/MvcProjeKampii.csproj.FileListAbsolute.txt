@@ -94,3 +94,7 @@ C:\Users\yunus\source\repos\MvcProjeKampii\MvcProjeKampii\bin\System.Threading.T
 C:\Users\yunus\source\repos\MvcProjeKampii\MvcProjeKampii\bin\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\yunus\source\repos\MvcProjeKampii\MvcProjeKampii\bin\FluentValidation.xml
 C:\Users\yunus\source\repos\MvcProjeKampii\MvcProjeKampii\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\yunus\source\repos\MvcProjeKampii\MvcProjeKampii\bin\PagedList.dll
+C:\Users\yunus\source\repos\MvcProjeKampii\MvcProjeKampii\bin\PagedList.Mvc.dll
+C:\Users\yunus\source\repos\MvcProjeKampii\MvcProjeKampii\bin\PagedList.xml
+C:\Users\yunus\source\repos\MvcProjeKampii\MvcProjeKampii\bin\PagedList.Mvc.xml

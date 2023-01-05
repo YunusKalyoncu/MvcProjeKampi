@@ -10,6 +10,7 @@ namespace BusinessLayer.abstrack
    public  interface IContentService
     {
         List<Content> GetList();
+        List<Content> GetListByWriter(int id);
         List<Content> GetListByHeadingID(int id);
         void ContentAdd(Content content);
         void ContentDelete(Content content);

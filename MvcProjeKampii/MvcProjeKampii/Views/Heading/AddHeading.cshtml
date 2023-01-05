@@ -17,10 +17,10 @@ Layout = "~/Views/Shared/_AdminLayout.cshtml"; }
     @Html.Label("Kategori")
     @Html.DropDownListFor(x => x.CategoryID, (List<SelectListItem>)ViewBag.vlc, new { @class = "form-control" })
     <br /><br />
-    @*@Html.Label("Yazar")
-    @Html.DropDownListFor(x => x.WriterID, (List<SelectListItem>)ViewBag.wrt, new { @class = "form-control" })
+    @Html.Label("Yazar")
     @Html.ValidationMessageFor(x => x.WriterID)
-    <br /><br />*@
+    @Html.DropDownListFor(x => x.WriterID, (List<SelectListItem>)ViewBag.wrt, new { @class = "form-control" })
+    <br /><br />
 
     <button class="btn btn-info">Başlık Oluştur</button>
 </div>}

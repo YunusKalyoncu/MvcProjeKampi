@@ -61,28 +61,34 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstrack\IAboutDal.cs" />
+    <Compile Include="Abstrack\IAdminDal.cs" />
     <Compile Include="Abstrack\ICategoryDal.cs" />
     <Compile Include="Abstrack\IContactDal.cs" />
     <Compile Include="Abstrack\IContentDal.cs" />
     <Compile Include="Abstrack\IHeadingDal.cs" />
+    <Compile Include="Abstrack\IImageFileDal.cs" />
+    <Compile Include="Abstrack\IMessageDal.cs" />
     <Compile Include="Abstrack\IRepository.cs" />
     <Compile Include="Abstrack\IWriterDal.cs" />
     <Compile Include="Concrete\Context.cs" />
     <Compile Include="EntitiyFramework\EfAboutDal.cs" />
+    <Compile Include="EntitiyFramework\EfAdminDal.cs" />
     <Compile Include="EntitiyFramework\EfCategoryDal.cs" />
     <Compile Include="EntitiyFramework\EfContactDal.cs" />
     <Compile Include="EntitiyFramework\EfContentDal.cs" />
     <Compile Include="EntitiyFramework\EfHeadingDal.cs" />
+    <Compile Include="EntitiyFramework\EfImageFileDal.cs" />
+    <Compile Include="EntitiyFramework\EfMessageDal.cs" />
     <Compile Include="EntitiyFramework\EfWriterDal.cs" />
     <Compile Include="EntitiyFramework\GenericReposityory.cs" />
-    <Compile Include="Migrations\202211211736184_mig-yeni1.cs" />
-    <Compile Include="Migrations\202211211736184_mig-yeni1.designer.cs">
-      <DependentUpon>202211211736184_mig-yeni1.cs</DependentUpon>
+    <Compile Include="Migrations\202212250835426_admin_panel.cs" />
+    <Compile Include="Migrations\202212250835426_admin_panel.designer.cs">
+      <DependentUpon>202212250835426_admin_panel.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repositories\CategoryRepository.cs" />
-    <Compile Include="Repositories\GenericRepository.cs" />
+    <Compile Include="Concrete\Repositories\CategoryRepository.cs" />
+    <Compile Include="Concrete\Repositories\GenericRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -95,8 +101,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202211211736184_mig-yeni1.resx">
-      <DependentUpon>202211211736184_mig-yeni1.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202212250835426_admin_panel.resx">
+      <DependentUpon>202212250835426_admin_panel.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
